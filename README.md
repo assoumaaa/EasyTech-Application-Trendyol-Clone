@@ -17,7 +17,7 @@
 # 
   
 # GroupWork
-This is a group project by myself and  [IamTaio](https://github.com/IamTaio)
+This is a group project done by myself and  [IamTaio](https://github.com/IamTaio)
 
   
 # Goal
