@@ -16,7 +16,9 @@
   
   
   
-# 
+# GroupWork
+This is a group project by myself and  [IamTaio](https://github.com/IamTaio)
+
   
 # Goal
 The goal of this project is to design & implement an e-commerce mobile applciation aka Trendyol Clone
